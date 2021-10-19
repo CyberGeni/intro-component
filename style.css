@@ -81,6 +81,7 @@ form h5 {
 }
 ::placeholder {
     font-weight: 600;
+    font-family: 'Poppins', sans-serif;
 }
 @media (min-width:1024px) {
     main {
